@@ -1,0 +1,29 @@
+.dropBox {
+  width: 100%;
+  height: 300px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  overflow: hidden;
+}
+
+.title {
+  width: 100%;
+  line-height: 30px;
+  background-color: #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.img {
+  width: 140px;
+  margin-top: 10px;
+}
+
+.attached {
+  display: flex;
+  width: 100%;
+  line-height: 20px;
+}
+
+.icon {
+  font-size: 13px;
+}

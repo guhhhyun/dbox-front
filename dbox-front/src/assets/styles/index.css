@@ -1,0 +1,123 @@
+/** reset **/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/** scrollBar **/
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #c3c3c3;
+  border-radius: 10px;
+  background-clip: padding-box;
+  border: 2px solid transparent;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+  border-radius: 10px;
+  box-shadow: inset 0px 0px 5px white;
+}
+
+.react-resizable {
+  width: auto !important;
+  padding: 0px 20px;
+}
+
+.react-swipeable-view-container {
+  height: 100vh !important;
+}
+
+/** rcTree **/
+.rc-tree .rc-tree-treenode span.rc-tree-switcher,
+.rc-tree .rc-tree-treenode span.rc-tree-checkbox,
+.rc-tree .rc-tree-treenode span.rc-tree-iconEle {
+  background-image: url("../imgs/treeCustom.png");
+}
+
+.rc-tree .rc-tree-treenode span.rc-tree-switcher.rc-tree-switcher_close {
+  background-position: -76px -54px;
+}
+
+.rc-tree-node-selected {
+  background-color: rgba(51, 146, 227, 0.3);
+  box-shadow: 0 0 0 0;
+  opacity: 1;
+  border-radius: 4px;
+}
+
+.rc-tree .rc-tree-treenode .rc-tree-node-content-wrapper {
+  padding: 2px 6px;
+  width: auto;
+}
+
+.rc-tree .rc-tree-treenode {
+  line-height: inherit;
+  height: 22px;
+}
+
+.rc-tree-title {
+  margin-left: 3px;
+}
+
+.rc-tree-title .MuiTypography-body2 {
+  font-size: 13px;
+}
+
+/** Grid **/
+.ag-theme-balham {
+  font-family: "Noto Sans KR", "맑은고딕", "MalgunGothic", arial, helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.ag-theme-balham .ag-root-wrapper {
+  border: 0px none;
+}
+
+.ag-theme-balham .ag-header {
+  background-color: #fff;
+  border-bottom: 0px none;
+}
+
+.ag-theme-balham .ag-header-row.ag-header-row-column {
+  color: #00254c;
+}
+
+.ag-theme-balham .ag-header-cell > .ag-react-container {
+  width: 100%;
+}
+
+.ag-theme-balham .ag-cell,
+.ag-theme-balham .ag-full-width-row .ag-cell-wrapper.ag-row-group {
+  line-height: 34px;
+}
+
+.ag-theme-balham .ag-row {
+  border-bottom: none;
+}
+
+.ag-theme-balham .ag-row-even {
+  background-color: #f7f9fc;
+}
+
+.ag-theme-balham .ag-row-hover {
+  background-color: #eef2f9;
+}
+
+.ag-theme-balham .ag-row-selected {
+  background-color: #b7e4ff;
+}
+
+/** 통합검색 **/
+.ToggleButton.selected {
+  background-color: #3392e3 !important;
+}
+
+.ToggleButton.selected svg {
+  stroke: #fff !important;
+}

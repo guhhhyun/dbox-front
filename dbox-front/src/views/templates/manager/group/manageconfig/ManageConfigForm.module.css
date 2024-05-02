@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 1080px;
+}
+
+.title {
+  color: #ffffff;
+  padding-bottom: 40px;
+}
+
+.title svg {
+  vertical-align: sub;
+  margin-right: 4px;
+}

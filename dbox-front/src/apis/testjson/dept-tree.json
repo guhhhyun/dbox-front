@@ -1,0 +1,3320 @@
+{
+    "gwDept": {
+      "comOrgId": "DKG",
+      "orgId": "DKG",
+      "orgNm": "동국제강그룹",
+      "regionCode": "",
+      "upOrgId": "#",
+      "managerPerId": "",
+      "sortKey": "",
+      "usageState": "Y",
+      "unitFullId": "",
+      "unitFullName": "",
+      "unitFullsortKey": "",
+      "siteId": "",
+      "unitTypeCd": "",
+      "overseaWork": "N",
+      "orgType": ""
+    },
+    "children": [
+      {
+        "gwDept": {
+          "comOrgId": "DKS",
+          "orgId": "DKS",
+          "orgNm": "동국제강",
+          "regionCode": "",
+          "upOrgId": "DKG",
+          "managerPerId": "",
+          "sortKey": "",
+          "usageState": "Y",
+          "unitFullId": "",
+          "unitFullName": "",
+          "unitFullsortKey": "",
+          "siteId": "",
+          "unitTypeCd": "",
+          "overseaWork": "N",
+          "orgType": ""
+        },
+        "children": [
+          {
+            "gwDept": {
+              "comOrgId": "DKS",
+              "orgId": "DKSM",
+              "orgNm": "관리직",
+              "regionCode": "",
+              "upOrgId": "DKS",
+              "managerPerId": "",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": [
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKSV00003",
+                  "orgNm": "해외법인",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "Y",
+                  "orgType": ""
+                },
+                "children": [
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKSV200000",
+                      "orgNm": "DKI",
+                      "regionCode": "",
+                      "upOrgId": "DKSV00003",
+                      "managerPerId": "harry.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "Y",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSV200001",
+                          "orgNm": "관리",
+                          "regionCode": "",
+                          "upOrgId": "DKSV200000",
+                          "managerPerId": "seungha.lim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSV200002",
+                          "orgNm": "영업",
+                          "regionCode": "",
+                          "upOrgId": "DKSV200000",
+                          "managerPerId": "doosoo.park",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSV200003",
+                          "orgNm": "브라질PJ",
+                          "regionCode": "",
+                          "upOrgId": "DKSV200000",
+                          "managerPerId": "harry.lee",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKSV300000",
+                      "orgNm": "DKC",
+                      "regionCode": "",
+                      "upOrgId": "DKSV00003",
+                      "managerPerId": "wooil.choi",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "Y",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSV300001",
+                          "orgNm": "관리재무팀",
+                          "regionCode": "",
+                          "upOrgId": "DKSV300000",
+                          "managerPerId": "jiwon.kang",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSV300002",
+                          "orgNm": "수출팀",
+                          "regionCode": "",
+                          "upOrgId": "DKSV300000",
+                          "managerPerId": "yongsoo.jeon",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSV300003",
+                          "orgNm": "냉연영업팀",
+                          "regionCode": "",
+                          "upOrgId": "DKSV300000",
+                          "managerPerId": "jaehaeng.park",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSV300004",
+                          "orgNm": "열연영업팀(DKC)",
+                          "regionCode": "",
+                          "upOrgId": "DKSV300000",
+                          "managerPerId": "geunho.lee",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS10005004",
+                  "orgNm": "비서팀",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "eunjung.park",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": []
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS10005157",
+                  "orgNm": "중앙기술연구소",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "byungmoon.lim",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": [
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50106523",
+                      "orgNm": "소재연구팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "manwoo.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50106524",
+                      "orgNm": "칼라연구팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "wonyoung.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS10005160",
+                      "orgNm": "제강연구팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "younghwan2.kim",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS10005161",
+                      "orgNm": "봉형강연구팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "gilsu.kim",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50135853",
+                      "orgNm": "연구지원팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "hyunhee.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50141024",
+                      "orgNm": "스마트물류TF",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "manick.cho",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50139920",
+                      "orgNm": "냉연설비기술팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "kyoungwon.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50139919",
+                      "orgNm": "열연설비기술팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "youngbong.jung",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50142168",
+                      "orgNm": "S1 CCL 증설 TF",
+                      "regionCode": "",
+                      "upOrgId": "DKS10005157",
+                      "managerPerId": "cheolsoo.jeong",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142300",
+                          "orgNm": "S1 CCL 증설 TF 전기",
+                          "regionCode": "",
+                          "upOrgId": "DKS50142168",
+                          "managerPerId": "cheolsoo.jeong",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142274",
+                          "orgNm": "S1 CCL 증설 TF 기계",
+                          "regionCode": "",
+                          "upOrgId": "DKS50142168",
+                          "managerPerId": "cheolsoo.jeong",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142583",
+                          "orgNm": "S1 CCL 증설 TF 조업",
+                          "regionCode": "",
+                          "upOrgId": "DKS50142168",
+                          "managerPerId": "cheolsoo.jeong",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS10005039",
+                  "orgNm": "사외이사",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": []
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS50136854",
+                  "orgNm": "동반성장 추진 위원회",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "woochul.cho",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": [
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50136865",
+                      "orgNm": "윤리경영팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50136854",
+                      "managerPerId": "woochul.cho",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50136868",
+                      "orgNm": "윤리경영팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50136854",
+                      "managerPerId": "keunsang.cho",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS50138624",
+                  "orgNm": "재경실",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "soonuk.chung",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": [
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50106485",
+                      "orgNm": "신용관리팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138624",
+                      "managerPerId": "sanghun.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50138651",
+                      "orgNm": "회계팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138624",
+                      "managerPerId": "jaecheol.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50138650",
+                      "orgNm": "재무팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138624",
+                      "managerPerId": "seongki.choi",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50139822",
+                      "orgNm": "내부회계관리팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138624",
+                      "managerPerId": "yongjin.kim",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS50138621",
+                  "orgNm": "경영지원실",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "jihoon.kim",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": [
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50118816",
+                      "orgNm": "윤리경영팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138621",
+                      "managerPerId": "yongjin.kim",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS10005010",
+                      "orgNm": "인사팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138621",
+                      "managerPerId": "sangyong.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50073891",
+                      "orgNm": "법무팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138621",
+                      "managerPerId": "woochul.cho",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50137344",
+                      "orgNm": "지원팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138621",
+                      "managerPerId": "heonjong.lee",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS50138573",
+                  "orgNm": "사장",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "yeoungek.kim",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": [
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKSV400000",
+                      "orgNm": "중국법인",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "suhwan.jung",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "Y",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50106527",
+                          "orgNm": "총부",
+                          "regionCode": "",
+                          "upOrgId": "DKSV400000",
+                          "managerPerId": "namsoo.park",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99991001",
+                              "orgNm": "企划人事部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106527",
+                              "managerPerId": "weijing.chen",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99991002",
+                              "orgNm": "销售部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106527",
+                              "managerPerId": "lvru",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99991003",
+                              "orgNm": "智彩销售部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106527",
+                              "managerPerId": "miaomiao.chen",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99991004",
+                              "orgNm": "财务部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106527",
+                              "managerPerId": "linwei.chen",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50106529",
+                          "orgNm": "DKSC",
+                          "regionCode": "",
+                          "upOrgId": "DKSV400000",
+                          "managerPerId": "kyuho.lee",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99992001",
+                              "orgNm": "安环处",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106529",
+                              "managerPerId": "jun.chen",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99992002",
+                              "orgNm": "生产部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106529",
+                              "managerPerId": "jiawei.shi",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99992003",
+                              "orgNm": "设备部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106529",
+                              "managerPerId": "zhengwei.an",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99992005",
+                              "orgNm": "采购部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106529",
+                              "managerPerId": "shuxia.jiang",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99992007",
+                              "orgNm": "原料部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106529",
+                              "managerPerId": "fuqiang.ding",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50106528",
+                          "orgNm": "CJBB",
+                          "regionCode": "",
+                          "upOrgId": "DKSV400000",
+                          "managerPerId": "yu.shen",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "Y",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS99993001",
+                              "orgNm": "长江厂管理部",
+                              "regionCode": "",
+                              "upOrgId": "DKS50106528",
+                              "managerPerId": "yu.shen",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "Y",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50118164",
+                      "orgNm": "포항공장",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "yongjun.shin",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS10005042",
+                          "orgNm": "관리팀(포항)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118164",
+                          "managerPerId": "jinwook.shin",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS10005050",
+                          "orgNm": "안전환경팀(포항)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118164",
+                          "managerPerId": "jaewon.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50005444",
+                          "orgNm": "품질관리팀(포항)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118164",
+                          "managerPerId": "eungsoo.kih",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSP10005152",
+                          "orgNm": "파견지원(포)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118164",
+                          "managerPerId": "",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50143553",
+                          "orgNm": "포항 봉강공장-신평공장 통합 추진 TF",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118164",
+                          "managerPerId": "eungsoo.kih",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142496",
+                          "orgNm": "생산담당",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118164",
+                          "managerPerId": "sangjae.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS10005066",
+                              "orgNm": "봉형강생산팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142496",
+                              "managerPerId": "dongeun.seo",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS10005076",
+                              "orgNm": "설비관리팀(포항)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142496",
+                              "managerPerId": "yongjae.kim",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS10005135",
+                              "orgNm": "신평형강생산팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142496",
+                              "managerPerId": "keunsang.cho",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50118165",
+                      "orgNm": "당진공장",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "jitak.kim",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS10005058",
+                          "orgNm": "후판생산팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118165",
+                          "managerPerId": "changjoon.bae",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50006942",
+                          "orgNm": "관리팀(당진)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118165",
+                          "managerPerId": "chaewon.choi",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSP10005156",
+                          "orgNm": "파견지원(당)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118165",
+                          "managerPerId": "",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50095884",
+                          "orgNm": "안전환경팀(당진)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118165",
+                          "managerPerId": "hyeok.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50095887",
+                          "orgNm": "설비관리팀(당진)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118165",
+                          "managerPerId": "mansung.hur",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50095888",
+                          "orgNm": "품질관리팀(당진)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118165",
+                          "managerPerId": "jaewon.lee",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50141298",
+                          "orgNm": "특수강사업팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50118165",
+                          "managerPerId": "byunggyu.park",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50106483",
+                      "orgNm": "전략실",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "jinsoo.kwag",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50024743",
+                          "orgNm": "정보기획팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106483",
+                          "managerPerId": "sangchul.park",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50082983",
+                          "orgNm": "브라질CSP",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106483",
+                          "managerPerId": "chiho.chang",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50138753",
+                          "orgNm": "기획팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106483",
+                          "managerPerId": "kwonmin.son",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50138717",
+                          "orgNm": "판매생산계획팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106483",
+                          "managerPerId": "jongwon.cho",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50135401",
+                          "orgNm": "경영전략팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106483",
+                          "managerPerId": "hyungdong.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50143244",
+                          "orgNm": "그룹 표준 문서관리체계 추진 TF",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106483",
+                          "managerPerId": "kyunghee.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50106486",
+                      "orgNm": "구매실",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "sungkook.ha",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50106488",
+                          "orgNm": "냉연원료구매팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106486",
+                          "managerPerId": "nakhong.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS10005020",
+                          "orgNm": "봉형강원료구매팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106486",
+                          "managerPerId": "youngju.kwon",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS10005021",
+                          "orgNm": "자재구매팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106486",
+                          "managerPerId": "myungsu.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50135823",
+                          "orgNm": "후판원료구매팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106486",
+                          "managerPerId": "eonsoo.park",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50106489",
+                      "orgNm": "인천공장",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "samyoung.choi",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS10005129",
+                          "orgNm": "품질관리팀(인천)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106489",
+                          "managerPerId": "jintae.jeong",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSP10005154",
+                          "orgNm": "파견지원(인)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106489",
+                          "managerPerId": "",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142493",
+                          "orgNm": "생산담당",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106489",
+                          "managerPerId": "sonic.chang",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS10005120",
+                              "orgNm": "봉강생산팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142493",
+                              "managerPerId": "sungho.yang",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS10005125",
+                              "orgNm": "설비관리팀(인천)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142493",
+                              "managerPerId": "heekyun.lee",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50141244",
+                          "orgNm": "관리담당",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106489",
+                          "managerPerId": "chanhee.lee",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS10005107",
+                              "orgNm": "관리팀(인천)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50141244",
+                              "managerPerId": "woonsup.shin",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS10005113",
+                              "orgNm": "안전환경팀(인천)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50141244",
+                              "managerPerId": "youngno.jung",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50138667",
+                              "orgNm": "노사화합팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50141244",
+                              "managerPerId": "seunghyun.bang",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50106494",
+                      "orgNm": "부산공장",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "yongjoon.joo",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142487",
+                          "orgNm": "생산담당",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106494",
+                          "managerPerId": "donwoo.nam",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106513",
+                              "orgNm": "Luxteel생산팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142487",
+                              "managerPerId": "jaehwan.byun",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106514",
+                              "orgNm": "Appsteel생산팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142487",
+                              "managerPerId": "NaeYong.Chang",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50138725",
+                              "orgNm": "설비관리팀(부산",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142487",
+                              "managerPerId": "dongjoo.moon",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50138723",
+                              "orgNm": "냉연도금생산팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142487",
+                              "managerPerId": "hyuncheul.kim",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142486",
+                          "orgNm": "관리담당",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106494",
+                          "managerPerId": "janghan.ju",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106520",
+                              "orgNm": "품질관리팀(부산)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142486",
+                              "managerPerId": "ickseok.choi",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106509",
+                              "orgNm": "관리팀(부산)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142486",
+                              "managerPerId": "jaehyun.park",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106510",
+                              "orgNm": "안전환경팀(부산)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142486",
+                              "managerPerId": "kyungkug.kim",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKSV500001",
+                          "orgNm": "파견지원(부)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50106494",
+                          "managerPerId": "",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50138663",
+                      "orgNm": "마케팅실",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "yeoungek.kim",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50139619",
+                          "orgNm": "마케팅팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50138663",
+                          "managerPerId": "yunro.lee",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50139879",
+                          "orgNm": "해외물류팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50138663",
+                          "managerPerId": "dongchul.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50139878",
+                          "orgNm": "통상팀",
+                          "regionCode": "",
+                          "upOrgId": "DKS50138663",
+                          "managerPerId": "hanki.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50143418",
+                          "orgNm": "E-BIZ(STEELSHOP.COM)",
+                          "regionCode": "",
+                          "upOrgId": "DKS50138663",
+                          "managerPerId": "jaecheol.lee",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50138662",
+                      "orgNm": "냉연영업실",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "sanghoon.park",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142491",
+                          "orgNm": "냉연영업담당",
+                          "regionCode": "",
+                          "upOrgId": "DKS50138662",
+                          "managerPerId": "doyeun.kim",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50107201",
+                              "orgNm": "멕시코(DKSM)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142491",
+                              "managerPerId": "",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50107202",
+                              "orgNm": "인도(DKSI)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142491",
+                              "managerPerId": "",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50107203",
+                              "orgNm": "태국(DKST)",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142491",
+                              "managerPerId": "",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106496",
+                              "orgNm": "Appsteel영업팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142491",
+                              "managerPerId": "doyeun.kim",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106497",
+                              "orgNm": "Luxteel영업팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142491",
+                              "managerPerId": "sangwoo.ahn",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106498",
+                              "orgNm": "디자인팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142491",
+                              "managerPerId": "boyeon.lee",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50106500",
+                              "orgNm": "냉연도금영업팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142491",
+                              "managerPerId": "jinyeong.kim",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50135418",
+                              "orgNm": "빌딩솔루션팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142491",
+                              "managerPerId": "youngjoon.park",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": [
+                              {
+                                "gwDept": {
+                                  "comOrgId": "DKS",
+                                  "orgId": "DKS50139692",
+                                  "orgNm": "도성센터",
+                                  "regionCode": "",
+                                  "upOrgId": "DKS50135418",
+                                  "managerPerId": "",
+                                  "sortKey": "",
+                                  "usageState": "Y",
+                                  "unitFullId": "",
+                                  "unitFullName": "",
+                                  "unitFullsortKey": "",
+                                  "siteId": "",
+                                  "unitTypeCd": "",
+                                  "overseaWork": "N",
+                                  "orgType": ""
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50138661",
+                      "orgNm": "열연영업실",
+                      "regionCode": "",
+                      "upOrgId": "DKS50138573",
+                      "managerPerId": "wonchan.choi",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": [
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142483",
+                          "orgNm": "후판영업담당",
+                          "regionCode": "",
+                          "upOrgId": "DKS50138661",
+                          "managerPerId": "daesig.lee",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50138713",
+                              "orgNm": "후판영업팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142483",
+                              "managerPerId": "jongsik.kim",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "gwDept": {
+                          "comOrgId": "DKS",
+                          "orgId": "DKS50142482",
+                          "orgNm": "봉형강영업담당",
+                          "regionCode": "",
+                          "upOrgId": "DKS50138661",
+                          "managerPerId": "ohyun.kwon",
+                          "sortKey": "",
+                          "usageState": "Y",
+                          "unitFullId": "",
+                          "unitFullName": "",
+                          "unitFullsortKey": "",
+                          "siteId": "",
+                          "unitTypeCd": "",
+                          "overseaWork": "N",
+                          "orgType": ""
+                        },
+                        "children": [
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50138861",
+                              "orgNm": "형강영업팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142482",
+                              "managerPerId": "yonghoon.park",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          },
+                          {
+                            "gwDept": {
+                              "comOrgId": "DKS",
+                              "orgId": "DKS50138711",
+                              "orgNm": "봉강영업팀",
+                              "regionCode": "",
+                              "upOrgId": "DKS50142482",
+                              "managerPerId": "jaeil.lee",
+                              "sortKey": "",
+                              "usageState": "Y",
+                              "unitFullId": "",
+                              "unitFullName": "",
+                              "unitFullsortKey": "",
+                              "siteId": "",
+                              "unitTypeCd": "",
+                              "overseaWork": "N",
+                              "orgType": ""
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS50143377",
+                  "orgNm": "동반협력실",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "chanhee.lee",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": [
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50138657",
+                      "orgNm": "ESG기획팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50143377",
+                      "managerPerId": "houngyeol.byeon",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50143380",
+                      "orgNm": "커뮤니케이션팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50143377",
+                      "managerPerId": "sunhong.kim",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  },
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50143379",
+                      "orgNm": "안전환경기획팀",
+                      "regionCode": "",
+                      "upOrgId": "DKS50143377",
+                      "managerPerId": "byunghyun.kim",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS50143260",
+                  "orgNm": "연결 내부회계관리제도 구축",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": []
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS50142145",
+                  "orgNm": "안전환경위원회",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "hyeok.kim",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": []
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "DKS",
+                  "orgId": "DKS50143275",
+                  "orgNm": "내부회계관리 운영위원회",
+                  "regionCode": "",
+                  "upOrgId": "DKSM",
+                  "managerPerId": "soonuk.chung",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": [
+                  {
+                    "gwDept": {
+                      "comOrgId": "DKS",
+                      "orgId": "DKS50143276",
+                      "orgNm": "내부회계관리 운영위원회 사무국",
+                      "regionCode": "",
+                      "upOrgId": "DKS50143275",
+                      "managerPerId": "",
+                      "sortKey": "",
+                      "usageState": "Y",
+                      "unitFullId": "",
+                      "unitFullName": "",
+                      "unitFullsortKey": "",
+                      "siteId": "",
+                      "unitTypeCd": "",
+                      "overseaWork": "N",
+                      "orgType": ""
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "gwDept": {
+              "comOrgId": "DKS",
+              "orgId": "DKSC",
+              "orgNm": "생산현장",
+              "regionCode": "",
+              "upOrgId": "DKS",
+              "managerPerId": "",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "gwDept": {
+          "comOrgId": "FEI",
+          "orgId": "FEI",
+          "orgNm": "페럼인프라",
+          "regionCode": "",
+          "upOrgId": "DKG",
+          "managerPerId": "",
+          "sortKey": "",
+          "usageState": "Y",
+          "unitFullId": "",
+          "unitFullName": "",
+          "unitFullsortKey": "",
+          "siteId": "",
+          "unitTypeCd": "",
+          "overseaWork": "N",
+          "orgType": ""
+        },
+        "children": [
+          {
+            "gwDept": {
+              "comOrgId": "FEI",
+              "orgId": "FEI1000",
+              "orgNm": "대표이사",
+              "regionCode": "",
+              "upOrgId": "FEI",
+              "managerPerId": "moonsung.koh",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "FEI",
+              "orgId": "FEI3000",
+              "orgNm": "기획관리팀",
+              "regionCode": "",
+              "upOrgId": "FEI",
+              "managerPerId": "sanghun21c.lee",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "FEI",
+              "orgId": "FEI5000",
+              "orgNm": "운영총괄",
+              "regionCode": "",
+              "upOrgId": "FEI",
+              "managerPerId": "jongeun.kang",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": [
+              {
+                "gwDept": {
+                  "comOrgId": "FEI",
+                  "orgId": "FEI6000",
+                  "orgNm": "경영지원팀",
+                  "regionCode": "",
+                  "upOrgId": "FEI5000",
+                  "managerPerId": "hyunsoo.park",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": []
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "FEI",
+                  "orgId": "FEI7000",
+                  "orgNm": "시설관리팀",
+                  "regionCode": "",
+                  "upOrgId": "FEI5000",
+                  "managerPerId": "jaewan.choi",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": []
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "FEI",
+                  "orgId": "FEI8000",
+                  "orgNm": "고객서비스팀",
+                  "regionCode": "",
+                  "upOrgId": "FEI5000",
+                  "managerPerId": "sungkwan.shin",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": []
+              },
+              {
+                "gwDept": {
+                  "comOrgId": "FEI",
+                  "orgId": "FEI9000",
+                  "orgNm": "코스관리팀",
+                  "regionCode": "",
+                  "upOrgId": "FEI5000",
+                  "managerPerId": "youngchul.lee",
+                  "sortKey": "",
+                  "usageState": "Y",
+                  "unitFullId": "",
+                  "unitFullName": "",
+                  "unitFullsortKey": "",
+                  "siteId": "",
+                  "unitTypeCd": "",
+                  "overseaWork": "N",
+                  "orgType": ""
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "gwDept": {
+              "comOrgId": "FEI",
+              "orgId": "FEI20000",
+              "orgNm": "통합구매팀",
+              "regionCode": "",
+              "upOrgId": "FEI",
+              "managerPerId": "jaein.han",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "gwDept": {
+          "comOrgId": "ITG",
+          "orgId": "ITG",
+          "orgNm": "인터지스",
+          "regionCode": "",
+          "upOrgId": "DKG",
+          "managerPerId": "",
+          "sortKey": "",
+          "usageState": "Y",
+          "unitFullId": "",
+          "unitFullName": "",
+          "unitFullsortKey": "",
+          "siteId": "",
+          "unitTypeCd": "",
+          "overseaWork": "N",
+          "orgType": ""
+        },
+        "children": [
+          {
+            "gwDept": {
+              "comOrgId": "ITG",
+              "orgId": "ITG00000001",
+              "orgNm": "대표이사",
+              "regionCode": "",
+              "upOrgId": "ITG",
+              "managerPerId": "dongho.park",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "ITG",
+              "orgId": "ITG00000002",
+              "orgNm": "사외이사",
+              "regionCode": "",
+              "upOrgId": "ITG",
+              "managerPerId": "",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "ITG",
+              "orgId": "ITG00006351",
+              "orgNm": "현업",
+              "regionCode": "",
+              "upOrgId": "ITG",
+              "managerPerId": "",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "ITG",
+              "orgId": "ITG00006350",
+              "orgNm": "관리",
+              "regionCode": "",
+              "upOrgId": "ITG",
+              "managerPerId": "",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "gwDept": {
+          "comOrgId": "UNC",
+          "orgId": "UNC",
+          "orgNm": "동국시스템즈",
+          "regionCode": "",
+          "upOrgId": "DKG",
+          "managerPerId": "",
+          "sortKey": "",
+          "usageState": "Y",
+          "unitFullId": "",
+          "unitFullName": "",
+          "unitFullsortKey": "",
+          "siteId": "",
+          "unitTypeCd": "",
+          "overseaWork": "N",
+          "orgType": ""
+        },
+        "children": [
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC100000",
+              "orgNm": "대표이사",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "kwangseon.kim",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC50008211",
+              "orgNm": "대외사업본부",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "yongseog.oh",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC50008238",
+              "orgNm": "그룹지원본부",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "ohryeon.kim",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "DKS50139919",
+              "orgNm": "경영관리팀",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "jinwoong1.kim",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC50008240",
+              "orgNm": "구매팀",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "hyeondong.kim",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC50009829",
+              "orgNm": "인재경영팀",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "hyoungwoo.kim",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC59999901",
+              "orgNm": "주니어보드",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC50012733",
+              "orgNm": "경영기획팀",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "jaejoong.kim",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC50013868",
+              "orgNm": "내부회계관리팀",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "chonggun.kim",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC50011658",
+              "orgNm": "네트워크사업실",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "seunghyup.han",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "N",
+              "orgType": ""
+            },
+            "children": []
+          },
+          {
+            "gwDept": {
+              "comOrgId": "UNC",
+              "orgId": "UNC50009708",
+              "orgNm": "브라질법인",
+              "regionCode": "",
+              "upOrgId": "UNC",
+              "managerPerId": "",
+              "sortKey": "",
+              "usageState": "Y",
+              "unitFullId": "",
+              "unitFullName": "",
+              "unitFullsortKey": "",
+              "siteId": "",
+              "unitTypeCd": "",
+              "overseaWork": "Y",
+              "orgType": ""
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  }

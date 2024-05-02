@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
+    <title>Iframe TEST</title>
+  </head>
+  <body>
+    <button id="color-change-button" type="button">색상변경</button>
+    <iframe src="http://localhost:3000/doc" title="ndoc" id="dbox-iframe" width="100%" height="800px"></iframe>
+    <script>
+      const colorChangeButton = document.getElementById("color-change-button");
+      const dboxIframe = document.getElementById("dbox-iframe");
+
+      colorChangeButton.addEventListener("click", function (e) {
+        const randomBetween = (min, max) => min + Math.floor(Math.random() * (max - min + 1));
+        const r = randomBetween(0, 255);
+        const g = randomBetween(0, 255);
+        const b = randomBetween(0, 255);
+        const rgb = `rgb(${r},${g},${b})`;
+
+        dboxIframe.contentWindow.postMessage(
+          {
+            theme: rgb,
+          },
+          "*",
+        );
+      });
+    </script>
+  </body>
+</html>

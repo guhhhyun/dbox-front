@@ -1,0 +1,10 @@
+.action{
+  padding-top:20px !important;
+  padding-bottom:10px !important;
+  overflow: hidden;
+  float: right;
+}
+
+.btn{
+  text-align:right;
+}

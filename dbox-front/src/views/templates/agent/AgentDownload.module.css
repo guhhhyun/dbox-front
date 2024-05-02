@@ -1,0 +1,52 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.bgImg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url("assets/imgs/bg_login.svg") no-repeat left;
+  background-size: cover;
+}
+
+.imgLogoDbox {
+  width: 106px;
+  margin: 40px 0 110px 0;
+}
+
+.h1 {
+  display: block;
+  margin-bottom: 80px !important;
+  font-size: 36px !important;
+  font-weight: 100 !important;
+  letter-spacing: -0.06em;
+}
+
+.loginBox {
+  width: 438px;
+  margin-left: 30%;
+}
+
+.submit {
+  height: 54px;
+  margin: 10px 0px !important;
+  border-radius: 40px !important;
+}
+
+.imgLogoDk {
+  position: absolute;
+  top: 40px;
+  right: 120px;
+  width: 200px;
+}
+
+.img01 {
+  position: absolute;
+  right: 250px;
+  bottom: 50px;
+  width: 40%;
+}

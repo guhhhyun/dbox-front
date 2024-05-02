@@ -1,0 +1,11 @@
+.contextMenu {
+  font-size: 13px !important;
+}
+
+.contextMenuPdr {
+  padding-left: 22px;
+}
+
+.contextMenu img {
+  vertical-align: middle;
+}

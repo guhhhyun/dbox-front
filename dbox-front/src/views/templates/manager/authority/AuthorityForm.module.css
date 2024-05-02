@@ -1,0 +1,17 @@
+.tabContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabContainer .tabButton button {
+  width: 200px;
+}
+
+.tabContents {
+  width: 100%;
+  height: calc(100vh - 70px);
+  background-color: #ffffff;
+  overflow: hidden;
+  border-radius: 12px;
+  overflow: auto;
+}

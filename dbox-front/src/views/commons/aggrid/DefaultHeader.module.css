@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.text {
+  flex-grow: 1;
+  display: flex;
+  line-height: 2;
+}
+
+.icon {
+  width: 0.7em !important;
+}

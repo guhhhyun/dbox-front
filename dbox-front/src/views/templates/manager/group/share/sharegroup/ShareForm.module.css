@@ -1,0 +1,32 @@
+.tabContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabContainer .tabButton button {
+  width: 200px;
+}
+
+.tabContents {
+  width: 100%;
+  height: calc(100vh - 70px);
+  background-color: #ffffff;
+  overflow: hidden;
+  border-radius: 12px;
+  overflow: auto;
+}
+
+.h3 {
+  color: #00234b;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.h3 svg {
+  vertical-align: bottom;
+  margin-right: 10px;
+}
+
+.gridBox {
+  border: 1px solid #ddd;
+}

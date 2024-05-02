@@ -1,0 +1,11 @@
+.inputGroup {
+  width: 100%;
+  height: 40px;
+  padding: 4px 16px;
+  border: 1px solid #c3c3c3 !important;
+  border-radius: 4px !important;
+}
+
+.btn {
+  height: 40px;
+}

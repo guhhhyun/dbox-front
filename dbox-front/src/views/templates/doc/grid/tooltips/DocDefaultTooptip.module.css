@@ -1,0 +1,14 @@
+.tooltip {
+  position: absolute;
+  width: 165px;
+  height: 20px;
+  border: 1px solid black;
+  overflow: hidden;
+  pointer-events: none;
+  transition: opacity 1s;
+  background-color: white;
+}
+
+.tooltip:global(.ag-tooltip-hiding) {
+  opacity: 0;
+}

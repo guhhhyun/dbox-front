@@ -1,0 +1,23 @@
+.height100per {
+  height: 100%;
+}
+
+
+.title{
+  width:100%;
+  padding-left: 30px;
+}
+
+.box {
+  width:100%;
+  padding-left: 60px;
+} 
+
+.contents {
+  padding:20px;
+  background-color:#f5f5f5;
+  border-radius:10px;
+  overflow: hidden;
+  width:100%;
+  padding-left: 60px;
+}

@@ -1,0 +1,90 @@
+.tabContainer {
+  position: relative;
+  display: flex;
+  height: calc(100% - 15px);
+  flex-direction: column;
+}
+
+.tabContents {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.selectBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #fff;
+}
+
+.selectBoxTreeType {
+  flex: 3 1 0;
+  margin-right: 8px !important;
+}
+
+/* .selectBoxProjectStatus {
+  flex: 1 1 0;
+} */
+
+.depTreeBox {
+  height: calc(100% - 130px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-radius: 0 0 12px 12px;
+  background-color: #fff;
+}
+
+.projectBox {
+  height: calc(100% - 180px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-radius: 0 0 12px 12px;
+  background-color: #fff;
+}
+
+.swiperbleViews {
+  flex: 1;
+  height: 500px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.btnUnfold {
+  position: absolute !important;
+  z-index: 111;
+  right: 8px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+  font-size: 14px !important;
+  box-sizing: content-box;
+  background-color: #fff !important;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.43);
+  cursor: e-resize !important;
+}
+
+.btnUnfold svg {
+  transform: rotate(90deg);
+}
+
+.folderStatus {
+  line-height: 2 !important;
+}
+
+.fontBold {
+  font-weight: bold;
+}
+
+.resizerY {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 3px;
+  height: 100%;
+  background-color: #ccc;
+  cursor: col-resize;
+  border-right: 2px solid transparent;
+  border-left: 2px solid transparent;
+}

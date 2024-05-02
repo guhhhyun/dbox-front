@@ -1,0 +1,78 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.bgImg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url("assets/imgs/bg_login.svg") no-repeat left;
+  background-size: cover;
+}
+
+.imgLogoDbox {
+  width: 106px;
+  margin: 40px 0 110px 0;
+}
+
+.h1 {
+  display: block;
+  margin-bottom: 80px !important;
+  font-size: 44px !important;
+  font-weight: 100 !important;
+  letter-spacing: -0.06em;
+}
+
+.loginBox {
+  width: 438px;
+  margin-left: 120px;
+}
+
+.id {
+  display: flex;
+  padding: 8px 20px;
+  border-radius: 40px !important;
+  border: 1px solid #ddd;
+}
+
+.address {
+  display: inline;
+  line-height: 2.4 !important;
+  padding-left: 30px;
+}
+
+.password {
+  display: flex;
+  padding: 8px 20px;
+  margin-top: 14px;
+  border-radius: 40px !important;
+  border: 1px solid #ddd;
+}
+
+.checkbox {
+  margin-top: 20px;
+  margin-left: 12px !important;
+}
+
+.submit {
+  height: 54px;
+  margin-top: 80px !important;
+  border-radius: 40px !important;
+}
+
+.imgLogoDk {
+  position: absolute;
+  top: 40px;
+  right: 120px;
+  width: 200px;
+}
+
+.img01 {
+  position: absolute;
+  right: 250px;
+  bottom: 50px;
+  width: 54%;
+}

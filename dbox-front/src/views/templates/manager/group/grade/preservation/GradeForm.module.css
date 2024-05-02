@@ -1,0 +1,36 @@
+.tabContainer {
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
+}
+
+.tabContents {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 480px);
+  height: auto;
+}
+
+.tabContents:nth-child(2) {
+  width: 480px;
+  height: auto;
+}
+
+.contents {
+  width: 100%;
+  height: calc(100vh - 70px);
+  background-color: #ffffff;
+  overflow: hidden;
+  border-radius: 12px;
+  overflow: auto;
+}
+
+.tabContents:nth-child(2) .contents {
+  width: 100%;
+  height: auto;
+}
+
+.action {
+  margin-bottom: 20px;
+  overflow: hidden;
+}

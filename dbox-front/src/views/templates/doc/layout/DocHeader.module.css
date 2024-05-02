@@ -1,0 +1,54 @@
+.root {
+  display: flex;
+  height: 26px;
+  margin-top: 16px;
+  margin-bottom: 8px;
+  color: #ffffff;
+}
+
+.path {
+  flex: 1;
+  white-space: nowrap;
+}
+
+.path button {
+  min-width: auto;
+  height: 26px;
+  padding: 6px 4px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #ffffff;
+  letter-spacing: -0.04em;
+}
+
+.search {
+  width: 218px;
+  margin: 0px 5px;
+}
+
+.search .searchContainer {
+  display: flex;
+  height: 28px;
+  padding: 2px 4px;
+  align-items: center;
+  border-radius: 22px;
+  border: 1px solid #d4d4d4;
+}
+
+.search .input {
+  margin-left: 10px;
+  flex: 1;
+  font-size: 12px;
+}
+
+.search button {
+  width: 22px;
+  height: 22px;
+  border-radius: 50% !important;
+}
+
+.tabIcons button {
+  margin-right: 5px;
+  margin-left: 5px;
+  color: #ffffff;
+}

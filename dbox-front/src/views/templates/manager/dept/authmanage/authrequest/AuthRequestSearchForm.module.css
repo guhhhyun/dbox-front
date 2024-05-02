@@ -1,0 +1,25 @@
+.searchBox {
+  padding:20px;
+  background-color:#f5f5f5;
+  border-radius:10px;
+  overflow: hidden;
+}
+
+.input{
+  background-color:#fff;
+  width:150px;
+}
+
+
+.inputGroup{
+  height:40px;
+  padding:4px;
+  margin-top:13px;
+  border:1px solid #c3c3c3 !important;
+}
+
+.searchBtn{
+  margin-left:80px;
+  margin-top:45px;
+  height:20px;
+}

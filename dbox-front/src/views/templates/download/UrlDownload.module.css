@@ -1,0 +1,45 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+}
+
+.boxLogo {
+  padding: 40px 200px 160px;
+  overflow: hidden;
+}
+
+.imgLogoDbox {
+  width: 106px;
+}
+
+.imgLogoDk {
+  width: 200px;
+}
+
+.h1 {
+  display: block;
+  margin-bottom: 80px !important;
+  font-size: 36px !important;
+  font-weight: 100 !important;
+  letter-spacing: -0.06em;
+}
+
+.box {
+  width: 500px;
+  background-color: #ffffff;
+}
+
+.submit {
+  width: 100px;
+  height: 54px;
+  margin: 20px 0px !important;
+}
+
+.img01 {
+  position: absolute;
+  right: 250px;
+  bottom: 50px;
+  z-index: -1;
+  width: 40%;
+  opacity: 0.5;
+}

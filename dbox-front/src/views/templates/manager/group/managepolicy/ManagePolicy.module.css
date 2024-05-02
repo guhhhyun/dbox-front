@@ -1,0 +1,27 @@
+.tabContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabContainer .tabButton button {
+  width: 230px;
+}
+
+.tabContents {
+  width: 100%;
+  height: calc(100vh - 70px);
+  background-color: #ffffff;
+  overflow: hidden;
+  border-radius: 12px;
+  overflow: auto;
+}
+
+.action {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  overflow: hidden;
+}
+
+.gridBox {
+  border-top: 1px solid #ddd;
+}

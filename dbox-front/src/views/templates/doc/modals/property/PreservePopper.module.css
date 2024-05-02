@@ -1,0 +1,12 @@
+.contentBox {
+  width: 100%;
+  height: auto;
+  padding: 14px;
+  background-color: #eef2f9;
+  overflow: hidden;
+  overflow: auto;
+}
+
+.tableBox {
+  background-color: #ffffff;
+}

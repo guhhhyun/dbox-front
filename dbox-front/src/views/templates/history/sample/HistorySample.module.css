@@ -1,0 +1,32 @@
+.contentBox {
+  width: 100%;
+  height: calc(100vh - 70px);
+  background-color: #ffffff;
+  overflow: hidden;
+  border-radius: 12px;
+  overflow: auto;
+}
+
+.h3 {
+  color: #00234b;
+  margin: 0;
+
+  float: left;
+}
+
+.h3 svg {
+  vertical-align: bottom;
+  margin-right: 10px;
+}
+
+.time {
+  float: right;
+}
+
+.gridBox {
+  border-top: 1px solid #ddd;
+}
+
+.mgb10 {
+  margin-bottom: 10px;
+}

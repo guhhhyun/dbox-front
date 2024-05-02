@@ -1,0 +1,27 @@
+.tabContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabContainer .tabButton button {
+  width: 200px;
+}
+
+.tabContents {
+  width: 1080px;
+  height: auto;
+  background-color: #ffffff;
+  overflow: hidden;
+  border-radius: 12px;
+  overflow: auto;
+}
+
+.title {
+  color: #ffffff;
+  margin-bottom: 20px !important;
+}
+
+.title svg {
+  vertical-align: sub;
+  margin-right: 4px;
+}

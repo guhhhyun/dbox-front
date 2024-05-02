@@ -1,0 +1,12 @@
+.treeWithStatus {
+  display: flex;
+  flex-direction: row;
+}
+
+.tree {
+  flex: 1;
+}
+
+.status {
+  height: 24px;
+}

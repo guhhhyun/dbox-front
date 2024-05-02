@@ -1,0 +1,33 @@
+.tabButton {
+  height: 30px;
+  min-height: 30px !important;
+}
+
+.tabButton button {
+  width: 95px;
+  min-width: 95px !important;
+  height: 30px;
+  min-height: 30px !important;
+  padding: 0px !important;
+  padding-left: 12px !important;
+}
+
+.tabContents {
+  width: 100%;
+  height: auto;
+  padding: 14px;
+  background-color: #ffffff;
+  overflow: hidden;
+  border-radius: 12px;
+  overflow: auto;
+}
+
+.action {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  overflow: hidden;
+}
+
+.gridBox {
+  border-top: 1px solid #ddd;
+}

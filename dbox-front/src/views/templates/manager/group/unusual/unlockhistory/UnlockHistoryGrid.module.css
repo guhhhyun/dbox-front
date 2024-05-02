@@ -1,0 +1,8 @@
+.height100per {
+  height: 100%;
+}
+
+.gridBox {
+  width: 100%;
+  border: 1px solid #ddd;
+}

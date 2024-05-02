@@ -1,0 +1,47 @@
+.h3 {
+  font-weight: bold !important;
+  font-size: 18px !important;
+  color: #00234b;
+  margin: 0;
+  margin-bottom: 20px !important;
+}
+
+.h3 svg {
+  vertical-align: sub;
+  margin-right: 0px;
+}
+
+.h4 {
+  color: #00234b;
+  font-weight: bold !important;
+  font-size: 16px !important;
+  margin-bottom: 14px !important;
+}
+
+.h4 svg {
+  vertical-align: text-bottom;
+  margin-right: 0px;
+}
+
+/* 보안등급재정의_현재보안등급분류*/
+.title {
+  color: #999;
+  font-weight: normal;
+  line-height: 2.6 !important;
+}
+
+.icon {
+  margin: 14px 0;
+  vertical-align: sub;
+}
+
+.box {
+  width: 600px;
+  margin-left: 50px;
+}
+
+.action {
+  float: right;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

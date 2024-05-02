@@ -1,0 +1,19 @@
+.h3 {
+  color: #00234b;
+  margin: 0;
+  float: left;
+}
+
+.h3 svg {
+  vertical-align: bottom;
+  margin-right: 10px;
+}
+
+.action {
+  overflow: hidden;
+}
+
+.btnRight {
+  float: right;
+  margin-bottom: 20px !important;
+}

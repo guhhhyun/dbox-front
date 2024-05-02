@@ -1,0 +1,24 @@
+.manager {
+  height: 26px;
+  line-height: 26px;
+  margin: 0px 18px;
+}
+
+.manager button {
+  height: 26px;
+  color: #333 !important;
+  font-size: 12px;
+}
+
+.manager .title {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+  margin-right: 4px;
+  font-size: 10px;
+  text-align: center;
+  background-color: #5e77ff;
+  color: #fff;
+  border-radius: 50%;
+}

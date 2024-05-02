@@ -1,0 +1,9 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  background: url("assets/imgs/main_bar_navy.png") no-repeat top;
+  background-size: 100% 69px;
+  background-color: #eef2f9;
+}
